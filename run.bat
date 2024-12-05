@@ -1,0 +1,1 @@
+pytest -s -v -m "sanity and smoke" --browser chrome testCases
