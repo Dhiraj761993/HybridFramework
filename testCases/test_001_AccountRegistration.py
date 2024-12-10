@@ -11,6 +11,7 @@ class Test_001_AccountReg:
     baseURL = ReadConfig.getApplicationURL()
     logger = LogGen.loggen()
     @pytest.mark.regression
+    @pytest.mark.sanity
     def test_account_reg(self,setup):
         self.logger.info("****test_001_AccountRegistration started****")
         self.driver = setup

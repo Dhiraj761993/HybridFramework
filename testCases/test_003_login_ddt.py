@@ -16,7 +16,7 @@ class Test_Login_DDT:
     path = os.path.abspath(os.curdir)+"\\testData\\Opencart_LoginData.xlsx"
     @pytest.mark.smoke
     @pytest.mark.regression
-    @pytest.mark.sanity
+    # @pytest.mark.sanity
     def test_login_ddt(self,setup):
         self.logger.info("****Starting of Data Driven Test Case****")
         self.rows = XLUtils.getRowCount(self.path,"Sheet1")
@@ -59,6 +59,29 @@ class Test_Login_DDT:
         else:
             assert False
         self.logger.info("******* End of test_003_login_Datadriven **********")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #pytest -s -v -m "sanity" --browser chrome testCases
