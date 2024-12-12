@@ -52,3 +52,48 @@
 12/10/2024  12:01:01 PM: INFO: ****Starting of Data Driven Test Case****
 12/10/2024  12:01:01 PM: INFO: ****Starting of Data Driven Test Case****
 12/10/2024  12:01:01 PM: INFO: ****Starting of Data Driven Test Case****
+12/12/2024  08:10:10 AM: INFO: ****test_001_AccountRegistration started****
+12/12/2024  08:10:10 AM: INFO: ****test_001_AccountRegistration started****
+12/12/2024  08:10:10 AM: INFO: ****test_001_AccountRegistration started****
+12/12/2024  08:10:17 AM: INFO: ****Launching Application****
+12/12/2024  08:10:17 AM: INFO: ****Launching Application****
+12/12/2024  08:10:17 AM: INFO: ****Launching Application****
+12/12/2024  08:10:17 AM: INFO: ****Click on MyAccount ==> Register****
+12/12/2024  08:10:17 AM: INFO: ****Click on MyAccount ==> Register****
+12/12/2024  08:10:17 AM: INFO: ****Click on MyAccount ==> Register****
+12/12/2024  08:10:20 AM: INFO: ****Account Registration is Passed****
+12/12/2024  08:10:20 AM: INFO: ****Account Registration is Passed****
+12/12/2024  08:10:20 AM: INFO: ****Account Registration is Passed****
+12/12/2024  08:10:21 AM: INFO: ******* Starting test_002_login **********
+12/12/2024  08:10:21 AM: INFO: ******* Starting test_002_login **********
+12/12/2024  08:10:21 AM: INFO: ******* Starting test_002_login **********
+12/12/2024  08:26:42 AM: INFO: ****test_001_AccountRegistration started****
+12/12/2024  08:26:42 AM: INFO: ****test_001_AccountRegistration started****
+12/12/2024  08:26:42 AM: INFO: ****test_001_AccountRegistration started****
+12/12/2024  08:26:45 AM: INFO: ****Launching Application****
+12/12/2024  08:26:45 AM: INFO: ****Launching Application****
+12/12/2024  08:26:45 AM: INFO: ****Launching Application****
+12/12/2024  08:26:46 AM: INFO: ****Click on MyAccount ==> Register****
+12/12/2024  08:26:46 AM: INFO: ****Click on MyAccount ==> Register****
+12/12/2024  08:26:46 AM: INFO: ****Click on MyAccount ==> Register****
+12/12/2024  08:26:50 AM: INFO: ****Account Registration is Passed****
+12/12/2024  08:26:50 AM: INFO: ****Account Registration is Passed****
+12/12/2024  08:26:50 AM: INFO: ****Account Registration is Passed****
+12/12/2024  08:26:51 AM: INFO: ******* Starting test_002_login **********
+12/12/2024  08:26:51 AM: INFO: ******* Starting test_002_login **********
+12/12/2024  08:26:51 AM: INFO: ******* Starting test_002_login **********
+12/12/2024  08:28:21 AM: INFO: ****test_001_AccountRegistration started****
+12/12/2024  08:28:21 AM: INFO: ****test_001_AccountRegistration started****
+12/12/2024  08:28:21 AM: INFO: ****test_001_AccountRegistration started****
+12/12/2024  08:28:24 AM: INFO: ****Launching Application****
+12/12/2024  08:28:24 AM: INFO: ****Launching Application****
+12/12/2024  08:28:24 AM: INFO: ****Launching Application****
+12/12/2024  08:28:24 AM: INFO: ****Click on MyAccount ==> Register****
+12/12/2024  08:28:24 AM: INFO: ****Click on MyAccount ==> Register****
+12/12/2024  08:28:24 AM: INFO: ****Click on MyAccount ==> Register****
+12/12/2024  08:28:28 AM: INFO: ****Account Registration is Passed****
+12/12/2024  08:28:28 AM: INFO: ****Account Registration is Passed****
+12/12/2024  08:28:28 AM: INFO: ****Account Registration is Passed****
+12/12/2024  08:28:29 AM: INFO: ******* Starting test_002_login **********
+12/12/2024  08:28:29 AM: INFO: ******* Starting test_002_login **********
+12/12/2024  08:28:29 AM: INFO: ******* Starting test_002_login **********

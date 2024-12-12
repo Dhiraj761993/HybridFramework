@@ -17,3 +17,8 @@ class ReadConfig():
    def getPassword():
        password=(config.get('commonInfo', 'password'))
        return password
+
+   @staticmethod
+   def getEnvironment():
+       environment = (config.get('commonInfo', 'execution_env'))
+       return environment
